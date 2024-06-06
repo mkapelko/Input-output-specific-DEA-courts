@@ -1,0 +1,2 @@
+All programming codes accompanying a paper "Evaluating input- and output-specific inefficiency in courts of justice. An empirical study of Polish district courts". They include: GAMS code for the main model, GAMS code for the additional model A and R code for additional model B. 
+The codes were created as a result of the project funded by the National Science Centre in Poland (grant no. 2023/49/B/HS4/02991).
